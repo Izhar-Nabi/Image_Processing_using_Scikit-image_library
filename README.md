@@ -17,11 +17,11 @@ To run a script, simply execute it using Python:
 python script_name.py
 
 # Contents
--Image Filtering: Demonstrates various image filtering techniques such as Gaussian blur, median filtering, etc.
--Image Segmentation: Illustrates image segmentation methods like thresholding, region-based segmentation, etc.
--Feature Extraction: Shows how to extract features from images using techniques like corner detection, edge detection, etc.
--Image Enhancement: Examples of image enhancement techniques including histogram equalization, contrast stretching, etc.
--Image Transformation: Examples of geometric transformations such as rotation, scaling, and affine transformations.
+- Image Filtering: Demonstrates various image filtering techniques such as Gaussian blur, median filtering, etc.
+- Image Segmentation: Illustrates image segmentation methods like thresholding, region-based segmentation, etc.
+- Feature Extraction: Shows how to extract features from images using techniques like corner detection, edge detection, etc.
+- Image Enhancement: Examples of image enhancement techniques including histogram equalization, contrast stretching, etc.
+- Image Transformation: Examples of geometric transformations such as rotation, scaling, and affine transformations.
 Each script includes comments explaining the purpose of the code and how it works. Feel free to modify and experiment with the code to fit your specific needs.
 
 # Contributing
